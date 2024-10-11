@@ -4,3 +4,5 @@ function downloadData() {
   var enddate = document.getElementById("enddate"). value:
   alert(startdate);
   alert(enddate); 
+
+}
