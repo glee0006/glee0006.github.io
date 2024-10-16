@@ -1,16 +1,16 @@
 .blue {
-  color:#02340;
+  color: #0C2340;
 }
 .red {
-  color:#BD1F2D:
+  color: #BD1F2D;
 }
 
-th{
-  border-bottom: 1px solid gray:
+th { 
+  border-bottom: 1px solid gray;
 }
 
 td {
-  rext-align: center;
+  text-align: center;
 }
 
 td.left {
@@ -22,5 +22,5 @@ a {
 }
 
 a:hover {
-  text-decoration: underline:
+  text-decoration: underline;
 }
